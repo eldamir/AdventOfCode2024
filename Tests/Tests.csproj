@@ -22,8 +22,4 @@
       <ProjectReference Include="..\AdventOfCode2024\AdventOfCode2024.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Day03\" />
-    </ItemGroup>
-
 </Project>
